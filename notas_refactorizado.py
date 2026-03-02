@@ -1,4 +1,10 @@
-"""Autor: Mario Falcón"""
+"""
+Programa para calcular la media de tres notas de distintos alumnos
+y mostrar su calificación correspondiente.
+
+Autor: Mario Falcón
+Fecha: (2/3/2026)
+"""
 
 def calcular_media(nota1, nota2, nota3):
     
